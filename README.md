@@ -1,5 +1,5 @@
-- 👋 Hi, I am Gulshan Kumar Bairwa
-- I am BCA Student.
+👋 **Hi, I am Gulshan Kumar Bairwa**
+**I am BCA Student**
 
 <!---
 Gulshan394/Gulshan394 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
