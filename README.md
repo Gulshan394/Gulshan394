@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gulshan Kumar Bairwa
+- 👋 Hi, I am Gulshan Kumar Bairwa
 - I am BCA Student.
 
 <!---
