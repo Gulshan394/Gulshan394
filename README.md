@@ -1,4 +1,4 @@
-👋 **Hi, I am Gulshan Kumar Bairwa**
+<h1>👋 Hi, I am Gulshan Kumar Bairwa </h1>
 **I am BCA Student**
 
 <!---
